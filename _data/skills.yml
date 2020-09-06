@@ -1,0 +1,11 @@
+- name: Software Engineer Keywords
+  keywords:
+      - Java
+      - Kotlin
+      - Python
+      - Design Patterns
+
+- name: Mobile Developer Keywords
+  keywords:
+      - JavaScript
+      - Reverse Engineering
