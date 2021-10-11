@@ -5,6 +5,14 @@
 - name: 0xl2oot
   url: https://0xl2oot.cn
   src: life
+ 
+- name: Harttle Land
+  url: https://harttle.github.io
+  src: life
+
+- name: 码志
+  url: https://github.com/mzlogin/mzlogin.github.io
+  src: www
 
 - name: 水寒的博客
   url: https://dp2px.com
@@ -32,4 +40,8 @@
 
 - name: 大白技术控
   url: https://www.geekplayers.com/
+  src: www
+
+- name: 阳明的博客
+  url: https://www.qikqiak.com/
   src: www
