@@ -103,7 +103,6 @@ plugins:
     - jekyll-feed
     - jemoji
 #     - jekyll-mentions
-#    - jekyll-asciidoc
 collections:
     wiki:
         output: true
