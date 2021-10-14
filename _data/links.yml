@@ -45,3 +45,7 @@
 - name: 阳明的博客
   url: https://www.qikqiak.com/
   src: www
+
+- name: 胡皓
+  url: https://huhao.dev/
+  src: www
