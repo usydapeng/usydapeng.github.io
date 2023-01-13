@@ -49,3 +49,11 @@
 - name: 胡皓
   url: https://huhao.dev/
   src: www
+
+- name: myddd
+  url: https://myddd.org/
+  src: www
+
+- name: mydlq
+  url: http://www.mydlq.club/
+  src: www
